@@ -112,7 +112,7 @@ Neste exemplo, o usuário inseriu a string **"Abacaxi"**, e o sistema retornou q
 
 ### Verificação de uma String sem a Letra 'A'
 
-Aqui, o usuário inseriu a string **"HomeOffice"**, e o sistema retornou que a letra 'A' aparece **1** vez.
+Aqui, o usuário inseriu a string **"HomeOffice"**, e o sistema retornou que a letra 'A' aparece **0** vezes.
 
 ![Verificação sem A](https://drive.google.com/uc?export=view&id=1jG1-UOIa8TiVdm0eaM7-LAkJuFpnQHFS)
 
